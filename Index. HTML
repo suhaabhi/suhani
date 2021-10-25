@@ -1,0 +1,38 @@
+<html>
+  <head>
+    <title> My Hobby </title>
+    
+    <link rel="stylesheet" href="Style.CSS">
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+   
+   <link href="https://fonts.googleapis.com/css2?family=Rampart+One&display=swap" rel="stylesheet">
+    </head>
+  
+  <body>
+ 
+ <center>
+  <ul class="menu">
+   <li class="About">
+   <li class="My Favorite hobby">
+   <li class="My Work">
+   <li class="My Inspiration">
+   <li class="Contact">
+  
+<section id="welcome">
+   <img src= "">
+   <h1> MY FAVOURITE HOBBY <br> <span id="name"> PLAYING BADMINTON </span> </h1>
+</section>
+    
+<section id="bio">
+  <p> When I was small, I didn't have any interest in playing badminton as I could not hit the shuttle even after many trys. Then,when I was 10 years old, my mother who is a doctor, her assistant called and asked her that she and her friends were going to the badminton court and that I could also come if I'd like to and I said "Yes!". When I reached there with Mandip (one of the maid)for company, they shared their rackets with us. They taught me to play badminton and I really liked it. After 3-4 days I was an expert and won every match we had. </p>
+ </section>
+    
+<section id="on">
+   <p> Now, I am really good at playing badminton. I want to learn more and get perfect so I have decided to practice almost everyday. When I am an adult, I want to become as good as Saina Nehwal in playing this sport. I love to play badminton.</p>
+
+ </section>
+    
+   </body>
+  </html>

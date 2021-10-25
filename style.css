@@ -1,0 +1,52 @@
+body {
+  text-align: center;
+  background-color:black;
+}
+
+
+.menu{
+list-style:none;
+font-family:cursive;
+float:right;
+top:10px;
+right:30px;
+cursor:pointer;
+color:black;
+}
+
+#welcome{
+font-family: 'Rampart One', cursive;
+}
+
+
+h1{
+  text-shadow:2px 2px #F8BBDO;
+  font-size:20px;
+  color:white
+}
+
+img{
+  border-radius:50%;
+  width:100px;
+}
+
+
+#bio{
+  padding:20px;
+  font-size:18;
+  text-align:center;
+  color:deeppink;
+}
+
+#on{
+   padding:20px;
+  font-size:18;
+  text-align:center;
+  color:cyan;
+}
+
+.links:hover{
+  display:inline;
+  background-color: beige; }
+}
+
